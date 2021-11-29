@@ -79,7 +79,7 @@ WSGI_APPLICATION = 'realest_estate.wsgi.application'
 
 
 # Database
-# https://docs.djangoproject.com/en/3.2/ref/settings/#databases
+# https://docs.djangoproject.com/en/3.2/ref/settings/#databases do sistema
 
 DATABASES = {
     'default': {
